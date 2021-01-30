@@ -1,0 +1,2 @@
+https://github.com/0NotApplicable0/oss-repo-template
+https://github.com/0NotApplicable0/oss-repo-template/blob/master/labs/lab-01/lab1.md
