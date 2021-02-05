@@ -1,6 +1,9 @@
 ## Part 1:
 ![gitkproof](gitk_all.PNG)
 
+![gitlogproof](gitlog.PNG)
+lab2part1 repository: https://github.com/0NotApplicable0/lab2part1
+
 <hr />
 
 ## Part 2:
@@ -17,6 +20,8 @@ Level 3 Complete:
 
 Level 4 Complete:
 ![l4proof](level4.PNG)
+
+<hr />
 
 ## Part 3:
 
