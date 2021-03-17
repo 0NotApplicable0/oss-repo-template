@@ -152,7 +152,7 @@ v.
 ## Step 4:
 
 Modified Code:
-[Part Four Code](lab6p4.py)
+[Part Four Code](Lab6p4.py)
 
 i.
 
